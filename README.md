@@ -1,7 +1,7 @@
 # Detection Lab (SIEM)
 
 ![Screenshot 2025-04-19 160523](https://github.com/user-attachments/assets/6bc14c54-926e-4da0-9b09-a1e27919f8c1)
-*Ref 4: Traffic, logs, and alerts visualized through Security Onion’s dynamic dashboard.*
+*Ref 1: Traffic, logs, and alerts visualized through Security Onion’s dynamic dashboard.*
 
 <blockquote style="border-left: 3px solid #dfe2e5; color: #6a737d; padding: 0 1em; margin: 24px 0;">
     <strong>Note:</strong> This was Security Onion's captured traffic after the initial setup.
