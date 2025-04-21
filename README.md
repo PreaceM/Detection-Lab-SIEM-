@@ -22,7 +22,7 @@ To build a controlled Security Information and Event Management (SIEM) lab envir
 - Performed incident response triage and documentation
 
 ### Technical Proficiencies
-- Security Onion administration (`sosetup`, `so-status`)
+- Security Onion administration
 - Suricata rule creation and tuning
 - Zeek network protocol analysis
 - Kibana dashboard creation and log investigation
@@ -113,13 +113,13 @@ To build a controlled Security Information and Event Management (SIEM) lab envir
   </blockquote>
 </div>
 
+![Screenshot 2025-04-19 163331](https://github.com/user-attachments/assets/854f98d0-a63b-4656-85fc-2d61185d1d96)
 
-![Screenshot 2025-04-19 163331](https://github.com/user-attachments/assets/52e080f3-43c7-4b2d-8d8f-50d9f74f88cd)
 
 *Ref 4: Alternate view of login failures.*
 
 
  <blockquote style="border-left: 3px solid #dfe2e5; color: #6a737d; padding: 0 1em; margin: 24px 0;">
-    <strong>Note:</strong> With Security Onion, alerts can be viewed through different tools, offering a degree of customization in workflow.
+    <strong>Note:</strong> Security Onion 2.4 delivers customizable alert monitoring through interfaces like Squert and Kibana, letting analysts flag critical alerts with one click. Built-in case management tracks investigations while automated notifications (Slack/Teams/email) and Sigma rule responses accelerate threat resolution.
   </blockquote>
 </div>
